@@ -29,4 +29,5 @@ docker-compose down
 
 ## Deployments
 Backend: https://apartment-rental-panel-test-task-backend.onrender.com
+
 Frontend: https://apartment-rental-panel-test-task-hbf6vta8v-sandrvvus-projects.vercel.app/
